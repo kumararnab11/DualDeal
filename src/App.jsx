@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import './App.css';
 import axios from 'axios';
-import Spinner from './spinner';
+import Spinner from './Spinner';
 import ProductCard from './ProductCard';
 
 function App() {
